@@ -1,5 +1,6 @@
 # Login in C++
-**note:** this project is all followed by (this)[https://www.youtube.com/watch?v=4ls9cHMpgvk]
+**note:** this project is all followed by [this](https://www.youtube.com/watch?v=4ls9cHMpgvk)
+
 A project that I've made while learning C++
 # Index
 - To add a user simply add `loginManagerObj.addUser("username", "password")`
