@@ -143,7 +143,7 @@ int main() {
     LoginManager loginManagerObj;
     loginManagerObj.login();
 
-    // temp accounts: (omar, oh) (maryam, mh)
+    // temp accounts: (omar, oh)
 
     system("pause");
 }
